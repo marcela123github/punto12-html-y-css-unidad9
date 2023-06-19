@@ -1,0 +1,17 @@
+h1{
+    font-size: 80px;
+    text-align:center;
+}
+.form-label,
+.form-check-label {
+  text-align: left;
+}
+body{
+    background-color: rgb(23, 250, 220); 
+   text-align: left;
+    margin-top: 20px; 
+}
+ button{
+  background-color: blueviolet;
+ }
+
